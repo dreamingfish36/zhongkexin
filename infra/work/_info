@@ -1,0 +1,121 @@
+m255
+K4
+z2
+!s12c _opt
+Z0 !s99 nomlopt
+!s11f vlog 2023.3 2023.07, Jul 17 2023
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z1 dC:/Users/29614/Desktop/Tensor_Mem-mid_v1.0/infra
+T_opt
+!s110 1743168667
+V?mmoP66346mNhh3ckDR<k0
+04 39 4 work Memristor_Infra_Multiplier_4bit_AXI4_tb fast 0
+=1-bc0358f4e48a-67e6a492-13e-7864
+R0
+!s12b OEM100
+!s124 OEM10U4 
+o-quiet -auto_acc_if_foreign -work work
+Z2 tCvgOpt 0
+n@_opt
+OL;O;2023.3;77
+vMemristor_Infra_Booth_4bit
+2Memristor_Infra_Booth_4bit.v
+!s110 1743168651
+!i10b 1
+!s100 j>2PNCkMo2[EkdS?[9mOj3
+I<4eakZ]ReXNMRC6;Qk54g3
+R1
+Z3 w1743075719
+8Memristor_Infra_Booth_4bit.v
+FMemristor_Infra_Booth_4bit.v
+!i122 4
+L0 21 57
+Z4 VDg1SIo80bB@j0V0VzS_@n1
+Z5 OL;L;2023.3;77
+r1
+!s85 0
+31
+!s108 1743168650.000000
+!s107 Memristor_Infra_Booth_4bit.v|
+!s90 Memristor_Infra_Booth_4bit.v|
+!i113 0
+Z6 o-L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R2
+n@memristor_@infra_@booth_4bit
+vMemristor_Infra_multiplier_4bit
+2Memristor_Infra_Multiplier_4bit.v
+!s110 1743168652
+!i10b 1
+!s100 8X374nc_lF>9E[HCDlg2I3
+I@e^^Yc6QV<?OBX`4=7M5S1
+R1
+R3
+8Memristor_Infra_Multiplier_4bit.v
+FMemristor_Infra_Multiplier_4bit.v
+!i122 5
+L0 11 101
+R4
+R5
+r1
+!s85 0
+31
+!s108 1743168652.000000
+!s107 Memristor_Infra_Multiplier_4bit.v|
+!s90 Memristor_Infra_Multiplier_4bit.v|
+!i113 0
+R6
+R2
+n@memristor_@infra_multiplier_4bit
+vMemristor_Infra_Multiplier_4bit_AXI4
+2Memristor_Infra_Multiplier_4bit_AXI4.v
+!s110 1743168653
+!i10b 1
+!s100 n=45I9H67CYjM6W_R7CBP3
+IJ_V3g;<Okglic?B3]DS:40
+R1
+w1743168636
+8Memristor_Infra_Multiplier_4bit_AXI4.v
+FMemristor_Infra_Multiplier_4bit_AXI4.v
+!i122 6
+L0 6 217
+R4
+R5
+r1
+!s85 0
+31
+!s108 1743168653.000000
+!s107 Memristor_Infra_Multiplier_4bit_AXI4.v|
+!s90 Memristor_Infra_Multiplier_4bit_AXI4.v|
+!i113 0
+R6
+R2
+n@memristor_@infra_@multiplier_4bit_@a@x@i4
+vMemristor_Infra_Multiplier_4bit_AXI4_tb
+2Memristor_Infra_Multiplier_4bit_AXI4_tb.v
+!s110 1743168655
+!i10b 1
+!s100 50m78_oR`GD>TQ8b`NWem2
+IM1UkMBkVZ<P9b;dn^5n;N1
+R1
+w1743168397
+8Memristor_Infra_Multiplier_4bit_AXI4_tb.v
+FMemristor_Infra_Multiplier_4bit_AXI4_tb.v
+!i122 7
+L0 8 233
+R4
+R5
+r1
+!s85 0
+31
+!s108 1743168654.000000
+!s107 Memristor_Infra_Multiplier_4bit_AXI4_tb.v|
+!s90 Memristor_Infra_Multiplier_4bit_AXI4_tb.v|
+!i113 0
+R6
+R2
+n@memristor_@infra_@multiplier_4bit_@a@x@i4_tb

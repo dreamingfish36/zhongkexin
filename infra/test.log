@@ -1,0 +1,48 @@
+# do run_test.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# Errors: 0, Warnings: 1
+# Questa Intel Starter FPGA Edition-64 vlog 2023.3 Compiler 2023.07 Jul 17 2023
+# Start time: 21:30:50 on Mar 28,2025
+# vlog Memristor_Infra_Booth_4bit.v 
+# -- Compiling module Memristor_Infra_Booth_4bit
+# 
+# Top level modules:
+# 	Memristor_Infra_Booth_4bit
+# End time: 21:30:51 on Mar 28,2025, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
+# Questa Intel Starter FPGA Edition-64 vlog 2023.3 Compiler 2023.07 Jul 17 2023
+# Start time: 21:30:52 on Mar 28,2025
+# vlog Memristor_Infra_Multiplier_4bit.v 
+# -- Compiling module Memristor_Infra_multiplier_4bit
+# 
+# Top level modules:
+# 	Memristor_Infra_multiplier_4bit
+# End time: 21:30:52 on Mar 28,2025, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Questa Intel Starter FPGA Edition-64 vlog 2023.3 Compiler 2023.07 Jul 17 2023
+# Start time: 21:30:53 on Mar 28,2025
+# vlog Memristor_Infra_Multiplier_4bit_AXI4.v 
+# -- Compiling module Memristor_Infra_Multiplier_4bit_AXI4
+# 
+# Top level modules:
+# 	Memristor_Infra_Multiplier_4bit_AXI4
+# End time: 21:30:53 on Mar 28,2025, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Questa Intel Starter FPGA Edition-64 vlog 2023.3 Compiler 2023.07 Jul 17 2023
+# Start time: 21:30:54 on Mar 28,2025
+# vlog Memristor_Infra_Multiplier_4bit_AXI4_tb.v 
+# -- Compiling module Memristor_Infra_Multiplier_4bit_AXI4_tb
+# 
+# Top level modules:
+# 	Memristor_Infra_Multiplier_4bit_AXI4_tb
+# End time: 21:30:55 on Mar 28,2025, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
+# vsim Memristor_Infra_Multiplier_4bit_AXI4_tb 
+# Start time: 21:30:56 on Mar 28,2025
+# ** Note: (vsim-3812) Design is being optimized...
+# ** License Issue: License request for intelqsimstarter feature failed
+# ** License Issue: Invalid (inconsistent) license key. (D:\Modelsim\win64\LICENSE.TXT)
+# ** Error: Failure to obtain a Verilog simulation license. Unable to checkout 'intelqsimstarter' license.
+# Error loading design
+# End time: 21:31:08 on Mar 28,2025, Elapsed time: 0:00:12
+# Errors: 0, Warnings: 0
